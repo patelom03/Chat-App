@@ -1,1 +1,1 @@
-![](/assets/sidebar.png)
+![](/images/sidebar.png)
