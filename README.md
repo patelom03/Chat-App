@@ -1,4 +1,4 @@
-# Chat APp
+# Chat App
 
 Created a chat app with full functionality including creating more chats, adding new members, sending images, kicking people, seeing read receipts, send photos and deleting chats. References images below.
 
